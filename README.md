@@ -35,7 +35,7 @@ The dataset consists of **one main table** containing **198 records**, with each
 
 **Data Relationship:** Each record represents one individual involved in a road accident, containing their demographic information, protective gear status, and survival outcome.
 
-[Insert Entity Relationship Diagram here]
+Images/edr.png
 
 ---
 
