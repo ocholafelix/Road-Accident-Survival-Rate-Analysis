@@ -35,7 +35,7 @@ The dataset consists of **one main table** containing **198 records**, with each
 
 **Data Relationship:** Each record represents one individual involved in a road accident, containing their demographic information, protective gear status, and survival outcome.
 
-Images/edr.png
+![image_alt](https://github.com/ocholafelix/Road-Accident-Survival-Rate-Analysis/blob/d0b6aa6faff840aed7c414963e3a1d95ad8a86f7/Images/edr.png)
 
 ---
 
