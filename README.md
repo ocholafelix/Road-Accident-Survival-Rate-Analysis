@@ -49,7 +49,7 @@ The overall **survival rate** among road accident victims was **50.76%**.
 - **Older individuals (36+)** had a higher survival rate compared to younger individuals (<35).  
 - **Male participants** showed higher survival rates compared to females.
 
-[Insert Doughnut chart showing overall survival rate]
+![image_alt](https://github.com/ocholafelix/Road-Accident-Survival-Rate-Analysis/blob/main/Images/photo_2025-11-11_12-17-09.jpg)
 
 **Visualizations created in Excel include:**
 - Doughnut charts (survival rate overview)  
@@ -68,7 +68,7 @@ The overall **survival rate** among road accident victims was **50.76%**.
 * **Main insight 3:** Victims in lower-speed impacts often **neglected safety measures**, contributing to lower survival rates.  
 * **Main insight 4:** **Safety equipment has a stronger influence** on survival than speed alone.
 
-[Insert Bar chart comparing survival by impact speed]
+![image_alt](https://github.com/ocholafelix/Road-Accident-Survival-Rate-Analysis/blob/main/Images/photo_2025-11-11_12-16-50.jpg)
 
 ---
 
@@ -79,7 +79,8 @@ The overall **survival rate** among road accident victims was **50.76%**.
 * **Main insight 3:** **Combined use of safety gear** offers the best protection.  
 * **Main insight 4:** Lack of compliance correlated with **higher fatality rates**, emphasizing the need for public safety awareness.
 
-[Insert Pie chart comparing survival rates by protective gear usage]
+![image_alt](https://github.com/ocholafelix/Road-Accident-Survival-Rate-Analysis/blob/main/Images/photo_2025-11-11_12-16-28.jpg)
+![image_alt](https://github.com/ocholafelix/Road-Accident-Survival-Rate-Analysis/blob/main/Images/photo_2025-11-11_12-16-23.jpg)
 
 ---
 
@@ -90,7 +91,7 @@ The overall **survival rate** among road accident victims was **50.76%**.
 * **Main insight 3:** Older individuals tend to **wear helmets and seatbelts more consistently**, leading to better outcomes.  
 * **Main insight 4:** Experience and caution appear to **positively influence** survival chances.
 
-[Insert Stacked bar chart comparing young vs old survival rates]
+![image_alt](https://github.com/ocholafelix/Road-Accident-Survival-Rate-Analysis/blob/main/Images/photo_2025-11-11_12-16-08.jpg)
 
 ---
 
@@ -101,7 +102,7 @@ The overall **survival rate** among road accident victims was **50.76%**.
 * **Main insight 3:** Males showed **slightly higher compliance** with helmet and seatbelt use.  
 * **Main insight 4:** Targeted safety campaigns for **female road users** could help bridge this survival gap.
 
-[Insert Stacked bar chart comparing survival by gender]
+![image_alt](https://github.com/ocholafelix/Road-Accident-Survival-Rate-Analysis/blob/main/Images/photo_2025-11-11_12-15-49.jpg)
 
 ---
 
@@ -114,7 +115,7 @@ Based on the findings, the following actions are recommended:
 * **Enforce strict safety laws** — Authorities should ensure adherence to helmet and seatbelt regulations.  
 * **Design targeted campaigns** — Focus on female and younger demographics to increase safety awareness.  
 * **Encourage defensive driving training** — Particularly for high-speed environments.
-
+![image_alt](https://github.com/ocholafelix/Road-Accident-Survival-Rate-Analysis/blob/main/Images/photo_2025-11-11_12-18-58.jpg)
 ---
 
 ## ⚙️ Assumptions and Caveats
